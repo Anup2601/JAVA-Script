@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+     
+}
+div{
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+button{
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+}
+div{
+    background-color: randomColor;
+    /* background-color: rgb(123, 87, 98); */
+}
